@@ -1,0 +1,98 @@
+{
+  "route": {
+    "dashboard": "首页",
+    "products": "商品",
+    "category": "分类管理",
+    "product": "商品管理",
+    "user": "用户管理",
+    "role": "权限管理",
+    "charts": "图形图表",
+    "line": "折线图",
+    "bar": "柱状图",
+    "pie": "饼状图"
+  },
+  "admin": {
+    "title": "硅谷后台",
+    "header": "欢迎, ",
+    "btnText": "退出",
+    "logoutText": "您确认要退出登录吗",
+    "okText": "确认",
+    "cancelText": "取消",
+    "footer": "欢迎使用硅谷后台管理系统~~"
+  },
+  "login": {
+    "title": "React项目: 后台管理系统",
+    "logTitle": "用户登录",
+    "username": "用户名",
+    "password": "密码",
+    "btn": "登录"
+  },
+  "theme": {
+    "title": "主题颜色选择",
+    "okText": "确认",
+    "cancelText": "取消"
+  },
+  "category":{
+    "sortList":"分类列表",
+    "name":"品类名称",
+    "operation":"操作",
+    "amendSort":"修改分类",
+    "deleteSort":"删除分类",
+    "addSort":"添加分类",
+    "title": "您确认要删除当前分类吗?",
+    "message":"请输入分类名称",
+    "blankName":"请输入修改的分类名称, 不能为空",
+    "sameName":"输入名称不能相同~"
+  },
+  "product":{
+    "commodityName":"商品名称",
+    "commodityDescribe":"商品描述",
+    "operation":"操作",
+    "state":"状态",
+    "price":"价格",
+    "accordingToCommodityName":"根据商品名称",
+    "accordingToCommodityDescribe": "根据商品描述",
+    "search":"搜索",
+    "addCommodity":"添加商品",
+    "putAway":"上架",
+    "soldOut ":"下架",
+    "hasBeenOn":"已上架",
+    "hasBeenOff":"已下架",
+    "details":"详情",
+    "amend":"修改",
+    "keyword":"关键字"
+  },
+  "user":{
+    "name":"用户名",
+    "email":"邮箱",
+    "operation":"操作",
+    "phone":"电话",
+    "createTime":"注册时间",
+    "roleId":"所属角色",
+    "changePassword": "修改密码",
+    "delete":"删除",
+    "deleteSuccess":"删除用户成功~",
+    "getUserListSuccess":"获取用户列表成功",
+    "getUserListError":"获取用户列表失败",
+    "getRoleListSuccess ":"获取角色列表成功",
+    "getRoleListError":"获取角色列表失败",
+    "addSuccess":"添加用户成功",
+    "addError":"添加用户失败",
+    "pwdDifferent":"两次密码输入不一致，请重新输入",
+    "upDatePwdSuccess":"更新用户密码成功",
+    "upDatePwdError":"更新用户密码失败",
+    "createUser":"创建用户"
+  },
+  "role":{
+    "name":"角色名称",
+    "createTime":"创建时间",
+    "authTime":"授权时间",
+    "authName":"授权人",
+    "addSuccess":"添加角色成功",
+    "addError":"添加角色失败",
+    "upDateRoleSuccess":"更新角色成功",
+    "upDateRoleError":"更新角色失败",
+    "createRole":"创建角色",
+    "setRolePermissions": "设置角色权限"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "route": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "category": "Category",
+    "product": "Product",
+    "user": "User",
+    "role": "Role",
+    "charts": "Charts",
+    "line": "Line",
+    "bar": "Bar",
+    "pie": "Pie"
+  },
+  "admin": {
+    "title": "Background",
+    "header": "Welcome, ",
+    "btnText": "exit",
+    "logoutText": "Are you sure you want to log out?",
+    "okText": "ok",
+    "cancelText": "cancel",
+    "footer": "Welcome to Guigu Background~~"
+  },
+  "login": {
+    "title": "Guigu Background",
+    "logTitle": "User Login",
+    "username": "username",
+    "password": "password",
+    "btn": "Login"
+  },
+  "theme": {
+    "title": "Theme Picker",
+    "okText": "ok",
+    "cancelText": "cancel"
+  },
+  "category":{
+    "sortList":"Sort List",
+    "name":"Category Name",
+    "operation":"Operation",
+    "amendSort":"Amend Sort",
+    "deleteSort":"Delete Sort",
+    "addSort":"Add Sort",
+    "title": "Are you sure you want to delete the current category?",
+    "message":"Please enter category name",
+    "blankName":"Please enter the modified category name. It cannot be empty",
+    "sameName":"The input name cannot be the same~"
+  },
+  "product":{
+    "commodityName":"Commodity Name",
+    "commodityDescribe":"Commodity Describe",
+    "operation":"Operation",
+    "state":"State",
+    "price":"Price",
+    "accordingToCommodityName":"According to trade name",
+    "accordingToCommodityDescribe": "According to product description",
+    "search":"Search",
+    "addCommodity":"Add Commodity",
+    "putAway":"PutAway",
+    "soldOut ":"SoldOut",
+    "hasBeenOn":"HasBeenOn",
+    "hasBeenOff":"HasBeenOff",
+    "details":"Details",
+    "amend":"Amend",
+    "keyword":"Keyword"
+  },
+  "user":{
+    "name":"User Name",
+    "email":"E-mail",
+    "operation":"Operation",
+    "phone":"Phone",
+    "createTime":"Create Time",
+    "roleId":"RoleId",
+    "changePassword": "Change Password",
+    "delete":"Delete",
+    "deleteSuccess":"User deleted successfully~",
+    "getUserListSuccess":"Success in getting the user list",
+    "getUserListError":"Failed to get user list",
+    "getRoleListSuccess ":"Success in getting the role list",
+    "getRoleListError":"Failed to get the role list",
+    "addSuccess":"User added successfully",
+    "addError":"Failed to add user",
+    "pwdDifferent":"The two passwords do not match. Please re-enter them",
+    "upDatePwdSuccess":"User password updated successfully",
+    "upDatePwdError":"Failed to update user password",
+    "createUser":"Create User"
+  },
+  "role":{
+    "name":"Role Name",
+    "createTime":"Create Time",
+    "authTime":"Auth Time",
+    "authName":"Auth Name",
+    "addSuccess":"Added role successful",
+    "addError":"Failed to add role",
+    "upDateRoleSuccess":"Role update successful",
+    "upDateRoleError":"Failed to update role",
+    "createRole":"Create Role",
+    "setRolePermissions": "Set role permissions"
+  }
+}
